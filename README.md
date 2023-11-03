@@ -9,6 +9,7 @@ Machine learning classification models were developed for survival prediction us
 Smart solutions utilizing AI can play a crucial role in reducing the risk of heart failure by providing accurate prognosis, survival projections, and risk predictions. By leveraging technology and data, healthcare disparities can be addressed, care plans can be improved, and patient outcomes can be enhanced. Smart health AI solutions have the potential to revolutionize healthcare policies, enable physicians to go beyond traditional practices, and increase overall patient satisfaction levels.
 
 #DATASET
+
 This dataset contains the medical records of 299 patients who had heart failure, collected during their follow-up period, where each patient profile has 13 clinical features.
 Attribute Information:
 Thirteen (13) clinical features:
